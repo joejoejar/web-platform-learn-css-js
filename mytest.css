@@ -1,6 +1,13 @@
-div {
-  width: 300px;
-  border: 15px solid green;
-  padding: 50px;
-  margin: 20px;
+div.ip {
+  width: 60px;
+  border: 2px solid green;
+  padding: 100px;
+  margin: 2px;
+}
+
+div.ip2 {
+  width: 60px;
+  border: 2px solid blue;
+  padding: 100px;
+  margin: 2px;
 }
