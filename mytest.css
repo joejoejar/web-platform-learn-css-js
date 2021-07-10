@@ -11,3 +11,18 @@ div.ip2 {
   padding: 100px;
   margin: 2px;
 }
+
+#myDIV {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-template-rows: 100px 100px;
+  border: 2px solid blue;
+}
+
+.item1 {
+  border: 2px dotted orange;
+}
+
+.item2 {
+  border: 2px double orange;
+}
